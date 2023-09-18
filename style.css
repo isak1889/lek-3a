@@ -1,0 +1,70 @@
+body{
+    background-image:url("./img/showcase.jpg") ;
+}
+
+
+h1{
+    
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+  
+    
+}
+
+.html_container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+
+
+}
+
+.html{
+    
+    background-color:antiquewhite;
+    border: 3px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    width: 200px;
+    height: auto;
+}
+
+.CSS{
+    background-color:antiquewhite;
+    margin-top: 21px;
+    border: 3px solid black;
+    border: 3px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.Javascript{
+    background-color:antiquewhite;
+    margin-top: 21px;
+    border: 3px solid black;
+    border: 3px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.loggor{
+    margin: 21px;
+    text-align: center;
+    
+    
+}
+
+.loggor> img{
+    width: 450px;
+    height: auto;
+    
+
+}
